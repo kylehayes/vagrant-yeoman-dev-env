@@ -1,4 +1,4 @@
 yeoman-dev-env
 ==============
 
-A development environment encouraging the Yeoman (http://yeoman.io/) workflow
+A vagrant development environment encouraging the Yeoman (http://yeoman.io/) workflow
